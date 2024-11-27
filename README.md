@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Tuomas
 
 🌱 I’m currently studying at university of Jyväskylä
-📫 How to reach me: tuokuu99@gmail.com
+📫 How to reach me: tujokuus@jyu.fi
 
 <!--
 **tujokuus/tujokuus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
